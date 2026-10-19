@@ -54,11 +54,11 @@ O Repositório está organizado da seguinte forma:
 
 A maior parte da interação com ferramentas de Inteligência Artificial durante a construção desse trabalho se restringiu à uma conversa (Em alguns casos pontuais também se utilizou do resumo de IA durante pesquisas). Pedi para que o próprio chatbot resumisse como foi a interação:
 
-```
-Durante o desenvolvimento deste trabalho, a Inteligência Artificial foi utilizada como ferramenta de apoio ao aprendizado, à programação e à organização do material. A interação ocorreu principalmente por meio de perguntas conceituais sobre redução de dimensionalidade, UMAP, Word2Vec, normalização de dados, PCA e análise de dados de expressão gênica, além de dúvidas sobre bibliotecas Python, pandas, Git e estruturação do repositório. As respostas foram utilizadas como apoio para compreender os conceitos, identificar possíveis problemas e comparar diferentes abordagens, enquanto as decisões sobre o desenvolvimento e a interpretação dos resultados foram realizadas ao longo do processo.
 
-Também foram solicitados códigos e trechos de código para tarefas específicas, como seleção de genes por variância, normalização de dados de RNA-seq, aplicação de PCA e UMAP, construção de gráficos e visualizações dos embeddings do Word2Vec e dos tipos celulares, além de operações de manipulação de DataFrames. Em vez de utilizar a IA apenas para obter respostas prontas, a interação foi feita de forma iterativa: os códigos eram testados, os resultados observados e novas perguntas eram feitas a partir dos problemas ou dúvidas encontrados durante a execução.
-```
+> Durante o desenvolvimento deste trabalho, a Inteligência Artificial foi utilizada como ferramenta de apoio ao aprendizado, à programação e à organização do material. A interação ocorreu principalmente por meio de perguntas conceituais sobre redução de dimensionalidade, UMAP, Word2Vec, normalização de dados, PCA e análise de dados de expressão gênica, além de dúvidas sobre bibliotecas Python, pandas, Git e estruturação do repositório. As respostas foram utilizadas como apoio para compreender os conceitos, identificar possíveis problemas e comparar diferentes abordagens, enquanto as decisões sobre o desenvolvimento e a interpretação dos resultados foram realizadas ao longo do processo.
+>
+> Também foram solicitados códigos e trechos de código para tarefas específicas, como seleção de genes por variância, normalização de dados de RNA-seq, aplicação de PCA e UMAP, construção de gráficos e visualizações dos embeddings do Word2Vec e dos tipos celulares, além de operações de manipulação de DataFrames. Em vez de utilizar a IA apenas para obter respostas prontas, a interação foi feita de forma iterativa: os códigos eram testados, os resultados observados e novas perguntas eram feitas a partir dos problemas ou dúvidas encontrados durante a execução.
+
 
 O link das principais conversas utilizadas estão aqui (novas conversas foram necessárias a medida que acaba a janela de contexto do modelo no plano gratuito)
 
